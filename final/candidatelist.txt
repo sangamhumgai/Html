@@ -1,0 +1,16 @@
+Name : Ram
+Party : NC
+Place : Kathmandu
+
+Name : Shyam
+Party : CPNUML
+Place : Gorkha
+
+Name : Hari
+Party : CPNUML(S)
+Place : Chitwan
+
+Name : Gopala
+Party : LP
+Place : Banke
+

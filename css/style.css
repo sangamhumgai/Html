@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight:500px ;
+}
+body{
+    background-color: rgb(124, 213, 235);
+    justify-content: center;
+    display: flex;
+    padding:5%;
+    box-shadow: 10%;
+
+    
+}
+h1{
+    text-align:  center;
+    color: red;
+    text-decoration: underline;
+
+}
+.container{
+    align-items: center;
+    margin: 10 px;
+    padding:0 px;
+
+
+}

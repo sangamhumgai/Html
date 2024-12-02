@@ -1,0 +1,18 @@
+Id : 14844
+Name : Manish_Shrestha
+DOB : 2035/05/16
+Address : Udayapur
+Password : manish
+
+Id : 2657
+Name : Hariram_Basnet
+DOB : 2043/10/19
+Address : Gorkha
+Password : hariram
+
+Id : 2656
+Name : Prakash_Chaudhary
+DOB : 2040/03/27
+Address : Chitwan
+Password : prakash
+

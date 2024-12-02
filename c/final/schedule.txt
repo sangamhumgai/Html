@@ -1,0 +1,21 @@
+Constituency : Kathmandu
+Date : 20220909
+
+Constituency : Gorkha
+Date : 20220909
+
+Constituency : Chitwan
+Date : 20220909
+
+Constituency : Pokhara
+Date : 20220909
+
+Constituency : bhaktpur
+Date : 20240502
+
+Constituency : kavre
+Date : 20250103
+
+Constituency : kavre
+Date : 20240102
+

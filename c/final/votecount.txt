@@ -1,0 +1,12 @@
+Party : LP
+Name : Hariram_Basnet
+
+Party : NC
+Name : Manish_Shrestha
+
+Party : NC
+Name : Hariram_Basnet
+
+Party : NC
+Name : Prakash_Chaudhary
+

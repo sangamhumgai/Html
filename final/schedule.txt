@@ -1,0 +1,12 @@
+Constituency : Kathmandu
+Date : 20220909
+
+Constituency : Gorkha
+Date : 20220909
+
+Constituency : Chitwan
+Date : 20220909
+
+Constituency : Pokhara
+Date : 20220909
+
